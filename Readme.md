@@ -1,6 +1,6 @@
 # Readme
 
-This project comprises the take home data analysis task for Eamon Glackin.
+This project comprises the take home data analysis task for Eamon Glackin. This project including all files can be found at https://github.com/eamonoflamancha/duolingo
 
 The report summarizing findings can be found in a few different formats in the following files:
 - [Report.ipynb](Report.ipynb)
